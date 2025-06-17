@@ -1,0 +1,147 @@
+Chiplet_1,Total readEnergy,2.60744e+07,pJ
+Chiplet_1,Total leakage Energy,253412,pJ
+Chiplet_1,Total Routing Energy,1.14627e+07,pJ
+Chiplet_1,Total Buffer Energy,550873,pJ
+Chiplet_1,Total Local Buffer Energy,550873,pJ
+Chiplet_1,Total Local Routing Energy,1.14627e+07,pJ
+Chiplet_1,Total ADC Energy,4.67553e+06,pJ
+Chiplet_1,Total Accumulation Energy,4.13688e+06,pJ
+Chiplet_1,Total Other Peripheries Energy,253803,pJ
+Chiplet_2,Total readEnergy,2.89365e+07,pJ
+Chiplet_2,Total leakage Energy,262657,pJ
+Chiplet_2,Total Routing Energy,1.27438e+07,pJ
+Chiplet_2,Total Buffer Energy,661713,pJ
+Chiplet_2,Total Local Buffer Energy,661713,pJ
+Chiplet_2,Total Local Routing Energy,1.27438e+07,pJ
+Chiplet_2,Total ADC Energy,5.07449e+06,pJ
+Chiplet_2,Total Accumulation Energy,4.61853e+06,pJ
+Chiplet_2,Total Other Peripheries Energy,271193,pJ
+Chiplet_3,Total readEnergy,3.42881e+07,pJ
+Chiplet_3,Total leakage Energy,272624,pJ
+Chiplet_3,Total Routing Energy,1.49281e+07,pJ
+Chiplet_3,Total Buffer Energy,868544,pJ
+Chiplet_3,Total Local Buffer Energy,868544,pJ
+Chiplet_3,Total Local Routing Energy,1.49281e+07,pJ
+Chiplet_3,Total ADC Energy,5.87242e+06,pJ
+Chiplet_3,Total Accumulation Energy,5.60397e+06,pJ
+Chiplet_3,Total Other Peripheries Energy,304148,pJ
+Chiplet_4,Total readEnergy,3.96397e+07,pJ
+Chiplet_4,Total leakage Energy,282591,pJ
+Chiplet_4,Total Routing Energy,1.71123e+07,pJ
+Chiplet_4,Total Buffer Energy,1.07537e+06,pJ
+Chiplet_4,Total Local Buffer Energy,1.07537e+06,pJ
+Chiplet_4,Total Local Routing Energy,1.71123e+07,pJ
+Chiplet_4,Total ADC Energy,6.67034e+06,pJ
+Chiplet_4,Total Accumulation Energy,6.5894e+06,pJ
+Chiplet_4,Total Other Peripheries Energy,337104,pJ
+Chiplet_5,Total readEnergy,4.5166e+07,pJ
+Chiplet_5,Total leakage Energy,294882,pJ
+Chiplet_5,Total Routing Energy,1.93772e+07,pJ
+Chiplet_5,Total Buffer Energy,1.28221e+06,pJ
+Chiplet_5,Total Local Buffer Energy,1.28221e+06,pJ
+Chiplet_5,Total Local Routing Energy,1.93772e+07,pJ
+Chiplet_5,Total ADC Energy,7.46826e+06,pJ
+Chiplet_5,Total Accumulation Energy,7.57483e+06,pJ
+Chiplet_5,Total Other Peripheries Energy,464154,pJ
+Chiplet_6,Total readEnergy,4.65436e+07,pJ
+Chiplet_6,Total leakage Energy,296158,pJ
+Chiplet_6,Total Routing Energy,1.98805e+07,pJ
+Chiplet_6,Total Buffer Energy,1.46189e+06,pJ
+Chiplet_6,Total Local Buffer Energy,1.46189e+06,pJ
+Chiplet_6,Total Local Routing Energy,1.98805e+07,pJ
+Chiplet_6,Total ADC Energy,7.64558e+06,pJ
+Chiplet_6,Total Accumulation Energy,7.79418e+06,pJ
+Chiplet_6,Total Other Peripheries Energy,507808,pJ
+Chiplet_7,Total readEnergy,4.90084e+07,pJ
+Chiplet_7,Total leakage Energy,297434,pJ
+Chiplet_7,Total Routing Energy,2.07899e+07,pJ
+Chiplet_7,Total Buffer Energy,1.79009e+06,pJ
+Chiplet_7,Total Local Buffer Energy,1.79009e+06,pJ
+Chiplet_7,Total Local Routing Energy,2.07899e+07,pJ
+Chiplet_7,Total ADC Energy,7.96475e+06,pJ
+Chiplet_7,Total Accumulation Energy,8.18902e+06,pJ
+Chiplet_7,Total Other Peripheries Energy,563344,pJ
+Chiplet_8,Total readEnergy,5.14277e+07,pJ
+Chiplet_8,Total leakage Energy,298699,pJ
+Chiplet_8,Total Routing Energy,2.1667e+07,pJ
+Chiplet_8,Total Buffer Energy,2.1183e+06,pJ
+Chiplet_8,Total Local Buffer Energy,2.1183e+06,pJ
+Chiplet_8,Total Local Routing Energy,2.1667e+07,pJ
+Chiplet_8,Total ADC Energy,8.28392e+06,pJ
+Chiplet_8,Total Accumulation Energy,8.58385e+06,pJ
+Chiplet_8,Total Other Peripheries Energy,605727,pJ
+Chiplet_9,Total readEnergy,5.3899e+07,pJ
+Chiplet_9,Total leakage Energy,331975,pJ
+Chiplet_9,Total Routing Energy,2.2544e+07,pJ
+Chiplet_9,Total Buffer Energy,2.44651e+06,pJ
+Chiplet_9,Total Local Buffer Energy,2.44651e+06,pJ
+Chiplet_9,Total Local Routing Energy,2.2544e+07,pJ
+Chiplet_9,Total ADC Energy,8.60309e+06,pJ
+Chiplet_9,Total Accumulation Energy,8.97869e+06,pJ
+Chiplet_9,Total Other Peripheries Energy,700092,pJ
+Chiplet_10,Total readEnergy,5.42768e+07,pJ
+Chiplet_10,Total leakage Energy,332427,pJ
+Chiplet_10,Total Routing Energy,2.26451e+07,pJ
+Chiplet_10,Total Buffer Energy,2.57324e+06,pJ
+Chiplet_10,Total Local Buffer Energy,2.57324e+06,pJ
+Chiplet_10,Total Local Routing Energy,2.26451e+07,pJ
+Chiplet_10,Total ADC Energy,8.63855e+06,pJ
+Chiplet_10,Total Accumulation Energy,9.02281e+06,pJ
+Chiplet_10,Total Other Peripheries Energy,719773,pJ
+Chiplet_11,Total readEnergy,5.46471e+07,pJ
+Chiplet_11,Total leakage Energy,332876,pJ
+Chiplet_11,Total Routing Energy,2.27425e+07,pJ
+Chiplet_11,Total Buffer Energy,2.69997e+06,pJ
+Chiplet_11,Total Local Buffer Energy,2.69997e+06,pJ
+Chiplet_11,Total Local Routing Energy,2.27425e+07,pJ
+Chiplet_11,Total ADC Energy,8.67402e+06,pJ
+Chiplet_11,Total Accumulation Energy,9.06693e+06,pJ
+Chiplet_11,Total Other Peripheries Energy,735432,pJ
+Chiplet_12,Total readEnergy,5.50174e+07,pJ
+Chiplet_12,Total leakage Energy,333326,pJ
+Chiplet_12,Total Routing Energy,2.284e+07,pJ
+Chiplet_12,Total Buffer Energy,2.82669e+06,pJ
+Chiplet_12,Total Local Buffer Energy,2.82669e+06,pJ
+Chiplet_12,Total Local Routing Energy,2.284e+07,pJ
+Chiplet_12,Total ADC Energy,8.70948e+06,pJ
+Chiplet_12,Total Accumulation Energy,9.11105e+06,pJ
+Chiplet_12,Total Other Peripheries Energy,751092,pJ
+Chiplet_13,Total readEnergy,5.53953e+07,pJ
+Chiplet_13,Total leakage Energy,333778,pJ
+Chiplet_13,Total Routing Energy,2.2941e+07,pJ
+Chiplet_13,Total Buffer Energy,2.95342e+06,pJ
+Chiplet_13,Total Local Buffer Energy,2.95342e+06,pJ
+Chiplet_13,Total Local Routing Energy,2.2941e+07,pJ
+Chiplet_13,Total ADC Energy,8.74494e+06,pJ
+Chiplet_13,Total Accumulation Energy,9.15516e+06,pJ
+Chiplet_13,Total Other Peripheries Energy,770773,pJ
+Chiplet_14,Total readEnergy,5.84184e+07,pJ
+Chiplet_14,Total leakage Energy,334230,pJ
+Chiplet_14,Total Routing Energy,2.37493e+07,pJ
+Chiplet_14,Total Buffer Energy,3.96726e+06,pJ
+Chiplet_14,Total Local Buffer Energy,3.96726e+06,pJ
+Chiplet_14,Total Local Routing Energy,2.37493e+07,pJ
+Chiplet_14,Total ADC Energy,9.02865e+06,pJ
+Chiplet_14,Total Accumulation Energy,9.50812e+06,pJ
+Chiplet_14,Total Other Peripheries Energy,928223,pJ
+Chiplet_15,Total readEnergy,6.43428e+07,pJ
+Chiplet_15,Total leakage Energy,334679,pJ
+Chiplet_15,Total Routing Energy,2.53085e+07,pJ
+Chiplet_15,Total Buffer Energy,5.99492e+06,pJ
+Chiplet_15,Total Local Buffer Energy,5.99492e+06,pJ
+Chiplet_15,Total Local Routing Energy,2.53085e+07,pJ
+Chiplet_15,Total ADC Energy,9.59606e+06,pJ
+Chiplet_15,Total Accumulation Energy,1.0214e+07,pJ
+Chiplet_15,Total Other Peripheries Energy,1.17878e+06,pJ
+Chiplet_16,Total readEnergy,6.44948e+07,pJ
+Chiplet_16,Total leakage Energy,334875,pJ
+Chiplet_16,Total Routing Energy,2.53495e+07,pJ
+Chiplet_16,Total Buffer Energy,6.04864e+06,pJ
+Chiplet_16,Total Local Buffer Energy,6.04864e+06,pJ
+Chiplet_16,Total Local Routing Energy,2.53495e+07,pJ
+Chiplet_16,Total ADC Energy,9.60927e+06,pJ
+Chiplet_16,Total Accumulation Energy,1.02309e+07,pJ
+Chiplet_16,Total Other Peripheries Energy,1.18702e+06,pJ
+Total NoC power is	2.564713333333333	mW
+Total NoP power is	16.13245333333333	mW
+Total NoP Driver Energy is	101520000.0	pJ

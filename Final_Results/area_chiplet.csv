@@ -1,0 +1,115 @@
+Chiplet_1,Subarray Area,20132.7,um^2
+Chiplet_1,Chip Area,1.11523e+06,um^2
+Chiplet_1,Total Within Tile Routing Area,61331,um^2
+Chiplet_1,Total ADC (or S/As and precharger for SRAM) Area,266355,um^2
+Chiplet_1,Total Accumulation Area,136093,um^2
+Chiplet_1,Total Other Peripheries Area,311384,um^2
+Chiplet_1,Total Buffer Area within the Tile,319929,um^2
+Chiplet_2,Subarray Area,20132.7,um^2
+Chiplet_2,Chip Area,1.07334e+06,um^2
+Chiplet_2,Total Within Tile Routing Area,59914.1,um^2
+Chiplet_2,Total ADC (or S/As and precharger for SRAM) Area,266355,um^2
+Chiplet_2,Total Accumulation Area,134804,um^2
+Chiplet_2,Total Other Peripheries Area,280892,um^2
+Chiplet_2,Total Buffer Area within the Tile,311239,um^2
+Chiplet_3,Subarray Area,40265.3,um^2
+Chiplet_3,Chip Area,2.08578e+06,um^2
+Chiplet_3,Total Within Tile Routing Area,119828,um^2
+Chiplet_3,Total ADC (or S/As and precharger for SRAM) Area,532710,um^2
+Chiplet_3,Total Accumulation Area,272306,um^2
+Chiplet_3,Total Other Peripheries Area,498190,um^2
+Chiplet_3,Total Buffer Area within the Tile,622478,um^2
+Chiplet_4,Subarray Area,40265.3,um^2
+Chiplet_4,Chip Area,2.08578e+06,um^2
+Chiplet_4,Total Within Tile Routing Area,119828,um^2
+Chiplet_4,Total ADC (or S/As and precharger for SRAM) Area,532710,um^2
+Chiplet_4,Total Accumulation Area,272306,um^2
+Chiplet_4,Total Other Peripheries Area,498190,um^2
+Chiplet_4,Total Buffer Area within the Tile,622478,um^2
+Chiplet_5,Subarray Area,40265.3,um^2
+Chiplet_5,Chip Area,2.16961e+06,um^2
+Chiplet_5,Total Within Tile Routing Area,122662,um^2
+Chiplet_5,Total ADC (or S/As and precharger for SRAM) Area,532710,um^2
+Chiplet_5,Total Accumulation Area,274940,um^2
+Chiplet_5,Total Other Peripheries Area,559175,um^2
+Chiplet_5,Total Buffer Area within the Tile,639858,um^2
+Chiplet_6,Subarray Area,60398,um^2
+Chiplet_6,Chip Area,3.21879e+06,um^2
+Chiplet_6,Total Within Tile Routing Area,183993,um^2
+Chiplet_6,Total ADC (or S/As and precharger for SRAM) Area,799065,um^2
+Chiplet_6,Total Accumulation Area,408586,um^2
+Chiplet_6,Total Other Peripheries Area,806965,um^2
+Chiplet_6,Total Buffer Area within the Tile,959787,um^2
+Chiplet_7,Subarray Area,100663,um^2
+Chiplet_7,Chip Area,5.32787e+06,um^2
+Chiplet_7,Total Within Tile Routing Area,306655,um^2
+Chiplet_7,Total ADC (or S/As and precharger for SRAM) Area,1.33178e+06,um^2
+Chiplet_7,Total Accumulation Area,686585,um^2
+Chiplet_7,Total Other Peripheries Area,1.30255e+06,um^2
+Chiplet_7,Total Buffer Area within the Tile,1.59965e+06,um^2
+Chiplet_8,Subarray Area,100663,um^2
+Chiplet_8,Chip Area,5.1183e+06,um^2
+Chiplet_8,Total Within Tile Routing Area,299570,um^2
+Chiplet_8,Total ADC (or S/As and precharger for SRAM) Area,1.33178e+06,um^2
+Chiplet_8,Total Accumulation Area,680017,um^2
+Chiplet_8,Total Other Peripheries Area,1.15008e+06,um^2
+Chiplet_8,Total Buffer Area within the Tile,1.55619e+06,um^2
+Chiplet_9,Subarray Area,100663,um^2
+Chiplet_9,Chip Area,5.1183e+06,um^2
+Chiplet_9,Total Within Tile Routing Area,299570,um^2
+Chiplet_9,Total ADC (or S/As and precharger for SRAM) Area,1.33178e+06,um^2
+Chiplet_9,Total Accumulation Area,680017,um^2
+Chiplet_9,Total Other Peripheries Area,1.15008e+06,um^2
+Chiplet_9,Total Buffer Area within the Tile,1.55619e+06,um^2
+Chiplet_10,Subarray Area,40265.3,um^2
+Chiplet_10,Chip Area,2.16961e+06,um^2
+Chiplet_10,Total Within Tile Routing Area,122662,um^2
+Chiplet_10,Total ADC (or S/As and precharger for SRAM) Area,532710,um^2
+Chiplet_10,Total Accumulation Area,274940,um^2
+Chiplet_10,Total Other Peripheries Area,559175,um^2
+Chiplet_10,Total Buffer Area within the Tile,639858,um^2
+Chiplet_11,Subarray Area,40265.3,um^2
+Chiplet_11,Chip Area,2.08578e+06,um^2
+Chiplet_11,Total Within Tile Routing Area,119828,um^2
+Chiplet_11,Total ADC (or S/As and precharger for SRAM) Area,532710,um^2
+Chiplet_11,Total Accumulation Area,272306,um^2
+Chiplet_11,Total Other Peripheries Area,498190,um^2
+Chiplet_11,Total Buffer Area within the Tile,622478,um^2
+Chiplet_12,Subarray Area,40265.3,um^2
+Chiplet_12,Chip Area,2.08578e+06,um^2
+Chiplet_12,Total Within Tile Routing Area,119828,um^2
+Chiplet_12,Total ADC (or S/As and precharger for SRAM) Area,532710,um^2
+Chiplet_12,Total Accumulation Area,272306,um^2
+Chiplet_12,Total Other Peripheries Area,498190,um^2
+Chiplet_12,Total Buffer Area within the Tile,622478,um^2
+Chiplet_13,Subarray Area,40265.3,um^2
+Chiplet_13,Chip Area,2.16961e+06,um^2
+Chiplet_13,Total Within Tile Routing Area,122662,um^2
+Chiplet_13,Total ADC (or S/As and precharger for SRAM) Area,532710,um^2
+Chiplet_13,Total Accumulation Area,274940,um^2
+Chiplet_13,Total Other Peripheries Area,559175,um^2
+Chiplet_13,Total Buffer Area within the Tile,639858,um^2
+Chiplet_14,Subarray Area,322123,um^2
+Chiplet_14,Chip Area,1.68582e+07,um^2
+Chiplet_14,Total Within Tile Routing Area,981296,um^2
+Chiplet_14,Total ADC (or S/As and precharger for SRAM) Area,4.26168e+06,um^2
+Chiplet_14,Total Accumulation Area,2.14598e+06,um^2
+Chiplet_14,Total Other Peripheries Area,4.02824e+06,um^2
+Chiplet_14,Total Buffer Area within the Tile,5.11887e+06,um^2
+Chiplet_15,Subarray Area,644245,um^2
+Chiplet_15,Chip Area,3.23166e+07,um^2
+Chiplet_15,Total Within Tile Routing Area,1.91725e+06,um^2
+Chiplet_15,Total ADC (or S/As and precharger for SRAM) Area,8.52336e+06,um^2
+Chiplet_15,Total Accumulation Area,4.25498e+06,um^2
+Chiplet_15,Total Other Peripheries Area,7.01713e+06,um^2
+Chiplet_15,Total Buffer Area within the Tile,9.95964e+06,um^2
+Chiplet_16,Subarray Area,1.9126e+06,um^2
+Chiplet_16,Chip Area,1.07458e+08,um^2
+Chiplet_16,Total Within Tile Routing Area,5.82644e+06,um^2
+Chiplet_16,Total ADC (or S/As and precharger for SRAM) Area,2.53037e+07,um^2
+Chiplet_16,Total Accumulation Area,1.44401e+07,um^2
+Chiplet_16,Total Other Peripheries Area,2.95815e+07,um^2
+Chiplet_16,Total Buffer Area within the Tile,3.03933e+07,um^2
+Total NoC area is	0.0497969	um^2
+Total NoP area is	829.544	um^2
+Total NoP Driver area is	541059.0	um^2
